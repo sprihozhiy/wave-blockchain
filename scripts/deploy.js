@@ -31,4 +31,4 @@ const main = async () => {
   
   runMain();
 
-  //0x7aF18FF875Db809aF6d17D70718D52bf101d73c7 - WavePortal address
+  //0xf7eC019111b1B0A538461Eb1D722Ba05d6af883b - WavePortal address
