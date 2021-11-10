@@ -27,3 +27,8 @@ module.exports = {
   }
   
 };
+
+
+// Deploying contracts with account:  0x3e7883Ee4f99ef6F5c0B0b72BBF54Dd1B1c6661d
+// Account balance:  25000000000000000
+// WavePortal address:  0xF20852050361E4E3D832542B46cb2AbAB9804155
